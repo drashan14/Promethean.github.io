@@ -231,15 +231,11 @@ h6 {
   padding: 0;
   display: flex;
   list-style: none;
-  align-item:left;
- 
-  
+  align-items: center;
 }
 
 .navbar li {
   position: relative;
-  
- 
 }
 
 .navbar>ul>li {
