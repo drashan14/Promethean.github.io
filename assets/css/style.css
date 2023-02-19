@@ -236,11 +236,12 @@ h6 {
 
 .navbar li {
   position: relative;
+  margin-left:0px;
 }
 
 .navbar>ul>li {
   white-space: nowrap;
-  padding: 10px 0 10px 5px;
+  padding: 10px 0 10px 12px;
 }
 
 .navbar a,
