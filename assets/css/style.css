@@ -231,13 +231,14 @@ h6 {
   padding: 0;
   display: flex;
   list-style: none;
+  align-item:left;
  
   
 }
 
 .navbar li {
   position: relative;
-   margin-left:50px;
+   margin-left:200px;
  
 }
 
